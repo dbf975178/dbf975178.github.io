@@ -17,6 +17,36 @@
 - [CompTIA A+](https://davidbenjaminfriedman.com/projects/comptia-a-plus): A mobile-first landing page with custom motion graphics for the entry-level IT certification.
 - [CompTIA ChannelCon](https://davidbenjaminfriedman.com/projects/comptia-channelcon): A Y2K-inspired design system that carried one theme across three global conferences.
 
+## Roles a fit for
+
+- Lead or senior web designer: Has led web design at two agencies, running a team, owning projects from brief to launch and managing the client relationship.
+- Webflow or WordPress developer: Clean class structure, CMS builds, interactions, launch QA and client training, on whichever platform fits the team.
+- UX and UI designer for marketing sites: Figma design systems, wireframes and conversion-focused page structure for hospitality, real estate, finance and technology brands.
+- Design technologist: Claude Code for prototyping, documentation and automation, plus AI workflow architecture a team can maintain.
+
+## FAQ
+
+**Who is David Friedman?**
+David Friedman is the Lead Web Designer at 97 Switch, a Chicago digital agency. He is based in Tampa, Florida, and designs, builds and maintains Webflow and WordPress websites for clients across the U.S.
+
+**What does David design and build?**
+Marketing, booking and lead-generation websites. His work covers discovery, UX and information architecture, Figma design systems, Webflow or WordPress builds with a CMS, QA, SEO set-up, launch and post-launch care.
+
+**Does David work in Webflow or WordPress?**
+Both. He picks the platform that suits the client's team and goals, with clean class structure, CMS where content changes often, and training so clients can edit their own sites.
+
+**Which industries has David worked in?**
+Hospitality, real estate, technology and IT, professional development, finance, food and beverage, and political consulting. Case studies include Hotel EMC2, ROOF on theWit, Smash Virtual, GSD Decisions and CompTIA.
+
+**Does David use AI in his work?**
+Yes. He uses Claude Code to prototype, document and automate, and designs AI workflows and the architecture behind them, so teams can trust and maintain what is built.
+
+**What roles is David a fit for?**
+Lead or senior web designer, Webflow or WordPress developer, UX and UI designer for marketing sites, and design technologist roles that mix design, build and AI-assisted workflows.
+
+**How can I contact David?**
+Message David on LinkedIn at linkedin.com/in/david-b-friedman. He is open to full-time roles and select projects.
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/david-b-friedman
