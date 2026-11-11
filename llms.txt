@@ -1,0 +1,22 @@
+# David Friedman
+
+> Lead web designer and Webflow and WordPress developer at 97 Switch, a Chicago digital agency. Based in Tampa, Florida. Designs, builds and maintains marketing and booking websites for hospitality, real estate, finance and technology brands, and builds AI-assisted workflows with Claude Code.
+
+## Pages
+
+- [Home](https://davidbenjaminfriedman.com/): about, approach, roles, experience, FAQ
+- [Projects](https://davidbenjaminfriedman.com/projects): ten web design case studies
+- [Hotel EMC2](https://davidbenjaminfriedman.com/projects/hotel-emc2): Booking-first website for an art-and-science boutique hotel in Streeterville, Chicago.
+- [ROOF on theWit](https://davidbenjaminfriedman.com/projects/roof-on-thewit): An events-driven site for a rooftop bar 27 stories above Chicago's Loop.
+- [Smash Virtual](https://davidbenjaminfriedman.com/projects/smash-virtual): A cinematic marketing site for Chicago's first virtual production studio.
+- [HydraVault](https://davidbenjaminfriedman.com/projects/hydravault): A leasing site that leads with the specs for a purpose-built AI data center under construction in Chicago.
+- [Goodman Campaigns](https://davidbenjaminfriedman.com/projects/goodman-campaigns): A bold, results-first website for a digital fundraising agency that helps downballot Democrats raise more.
+- [Great Society Strategies](https://davidbenjaminfriedman.com/projects/great-society-strategies): A site with archival character for a political consulting firm, organized around services, case studies and insights.
+- [SideGigster](https://davidbenjaminfriedman.com/projects/sidegigster): A new brand and a conversion-focused site for a gig-economy affiliate program.
+- [GSD Decisions](https://davidbenjaminfriedman.com/projects/ecd-company): A geometric, fast Webflow rebuild for a Chicago real estate firm with a $1B+ portfolio.
+- [CompTIA A+](https://davidbenjaminfriedman.com/projects/comptia-a-plus): A mobile-first landing page with custom motion graphics for the entry-level IT certification.
+- [CompTIA ChannelCon](https://davidbenjaminfriedman.com/projects/comptia-channelcon): A Y2K-inspired design system that carried one theme across three global conferences.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/david-b-friedman
