@@ -432,3 +432,5 @@ body::after{content:"";position:fixed;inset:0;z-index:90;pointer-events:none;opa
 }
 @media (prefers-reduced-motion:reduce){.badge{animation:none}}
 main{overflow-x:clip}
+
+.foot nav{display:flex;flex-wrap:wrap;gap:6px 18px}
